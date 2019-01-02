@@ -17,9 +17,7 @@ doubleblockchain:
  
 
 验证阶段：
-
 实现最简单的区块链：一致性BPFT，dpos，没有智能合约，测试吞吐量能否比eos有数量级的提高，eos目前是60tps.
-
 交易结构：from
         timestamp
         data
